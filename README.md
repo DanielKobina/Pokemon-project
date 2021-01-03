@@ -4,4 +4,3 @@ This is an assigned project that I created for an introduction to programing cou
 
 In this project students create two class structures. One class for Pokémon, the other for Pokémon moves.
 Those two class structures are in turn used to have pokemon battles in the project.py file.
-Information for the Pokémon stats and moves are found in the two csv files.
